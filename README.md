@@ -17,6 +17,11 @@ Submissions page:
 
 
 Summary page:
+<img width="2878" height="1560" alt="Screenshot 2025-10-30 at 12 29 33 PM" src="https://github.com/user-attachments/assets/0940cc81-cdbb-44b2-9874-45a612afbd04" />
+<img width="2880" height="1324" alt="Screenshot 2025-10-30 at 12 29 52 PM" src="https://github.com/user-attachments/assets/daca6fe3-f706-4741-814a-25cac19c8fad" />
+<img width="2880" height="1612" alt="Screenshot 2025-10-30 at 12 30 33 PM" src="https://github.com/user-attachments/assets/0176a275-27a7-4a49-9942-cd986a65792e" />
+<img width="2880" height="458" alt="Screenshot 2025-10-30 at 12 30 44 PM" src="https://github.com/user-attachments/assets/89116b66-cf7a-4711-9e96-77ff9bf493da" />
+
 
 🚀 Features
 ✅ Collects teacher feedback from a web page
