@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Teacher Feedback Summarizer</title>
+  <style>
+    body { font-family: Arial; margin: 50px; background: #f2f2f2; }
+    input, button { padding: 10px; margin: 5px; }
+    #output { background: white; padding: 20px; border-radius: 10px; }
+  </style>
+</head>
+<body>
+  <h2>Teacher Feedback Summarizer</h2>
+  <input id="teacherName" placeholder="Enter Teacher Name">
+  <button onclick="summarize()">Summarize</button>
+  <div id="output"></div>
+
+  <script>
+    async function summarize() {
+      const teacher = document.getElementById('teacherName').value;
+      const res = await fetch('https://9yjx90lobb.execute-api.ap-south-1.amazonaws.com/prod/summarise', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ teacher })
+      });
+      const data = await res.json();
+      document.getElementById('output').innerHTML = `
+        <h3>Summary for ${teacher}</h3>
+        <p>${data.summary || data.error || data.message}</p>`;
+    }
+  </script>
+</body>
+</html>

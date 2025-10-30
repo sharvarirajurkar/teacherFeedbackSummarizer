@@ -1,0 +1,101 @@
+id,course,feedback,sentiment,teacher,timestamp
+1,Mathematics,Needs to slow down during complex topics.,,Dr. Menon,2025-10-30T09:15:00Z
+2,Economics,The class was engaging and informative.,,Dr. Reddy,2025-10-30T09:30:00Z
+3,History,Slides were detailed and easy to follow.,,Dr. Menon,2025-10-30T09:45:00Z
+4,Statistics,The teacher was patient and explained concepts well.,,Mr. Kumar,2025-10-30T10:00:00Z
+5,English,The teacher was patient and explained concepts well.,,Dr. Reddy,2025-10-30T10:15:00Z
+6,Mathematics,The class was engaging and informative.,,Ms. Gupta,2025-10-30T10:30:00Z
+7,Computer Science,Uses real-life examples to make lessons interesting.,,Mr. Sharma,2025-10-30T10:45:00Z
+8,Computer Science,Encourages student participation effectively.,,Dr. Iyer,2025-10-30T11:00:00Z
+9,History,Uses real-life examples to make lessons interesting.,,Ms. Pillai,2025-10-30T11:15:00Z
+10,Mathematics,Assignments are relevant and thought-provoking.,,Ms. Gupta,2025-10-30T11:30:00Z
+11,Mathematics,Encourages student participation effectively.,,Mr. Kumar,2025-10-30T11:45:00Z
+12,Statistics,Encourages student participation effectively.,,Dr. Banerjee,2025-10-30T12:00:00Z
+13,Chemistry,The overall teaching style is excellent.,,Ms. Pillai,2025-10-30T12:15:00Z
+14,Statistics,Slides were detailed and easy to follow.,,Mr. Kumar,2025-10-30T12:30:00Z
+15,History,The overall teaching style is excellent.,,Dr. Banerjee,2025-10-30T12:45:00Z
+16,Statistics,The overall teaching style is excellent.,,Dr. Menon,2025-10-30T13:00:00Z
+17,Biology,Needs to slow down during complex topics.,,Ms. Nair,2025-10-30T13:15:00Z
+18,Computer Science,The class was engaging and informative.,,Mr. Kumar,2025-10-30T13:30:00Z
+19,Environmental Science,Assignments are relevant and thought-provoking.,,Dr. Menon,2025-10-30T13:45:00Z
+20,Biology,Good explanations but more examples would help.,,Ms. Pillai,2025-10-30T14:00:00Z
+21,English,Needs to slow down during complex topics.,,Mr. Kumar,2025-10-30T14:15:00Z
+22,Chemistry,Good explanations but more examples would help.,,Dr. Banerjee,2025-10-30T14:30:00Z
+23,Computer Science,Assignments are relevant and thought-provoking.,,Mr. Kumar,2025-10-30T14:45:00Z
+24,Economics,Good explanations but more examples would help.,,Ms. Pillai,2025-10-30T15:00:00Z
+25,Biology,The overall teaching style is excellent.,,Dr. Reddy,2025-10-30T15:15:00Z
+26,Economics,The class was engaging and informative.,,Mr. Sharma,2025-10-30T15:30:00Z
+27,English,Slides were detailed and easy to follow.,,Ms. Gupta,2025-10-30T15:45:00Z
+28,Mathematics,Assignments are relevant and thought-provoking.,,Ms. Gupta,2025-10-30T16:00:00Z
+29,Biology,Slides were detailed and easy to follow.,,Dr. Banerjee,2025-10-30T16:15:00Z
+30,History,The class was engaging and informative.,,Mr. Sharma,2025-10-30T16:30:00Z
+31,Biology,Encourages student participation effectively.,,Ms. Nair,2025-10-30T16:45:00Z
+32,History,Assignments are relevant and thought-provoking.,,Dr. Iyer,2025-10-30T17:00:00Z
+33,Economics,Encourages student participation effectively.,,Ms. Pillai,2025-10-30T17:15:00Z
+34,Statistics,The teacher was patient and explained concepts well.,,Dr. Menon,2025-10-30T17:30:00Z
+35,Mathematics,The overall teaching style is excellent.,,Mr. Sharma,2025-10-30T17:45:00Z
+36,Chemistry,Slides were detailed and easy to follow.,,Ms. Pillai,2025-10-30T18:00:00Z
+37,Biology,Assignments are relevant and thought-provoking.,,Dr. Banerjee,2025-10-30T18:15:00Z
+38,Economics,Encourages student participation effectively.,,Dr. Iyer,2025-10-30T18:30:00Z
+39,Biology,Encourages student participation effectively.,,Mr. Kumar,2025-10-30T18:45:00Z
+40,Mathematics,The overall teaching style is excellent.,,Ms. Gupta,2025-10-30T19:00:00Z
+41,Environmental Science,Needs to slow down during complex topics.,,Dr. Menon,2025-10-30T19:15:00Z
+42,Statistics,Assignments are relevant and thought-provoking.,,Ms. Nair,2025-10-30T19:30:00Z
+43,Chemistry,The teacher was patient and explained concepts well.,,Dr. Menon,2025-10-30T19:45:00Z
+44,Statistics,Good explanations but more examples would help.,,Dr. Banerjee,2025-10-30T20:00:00Z
+45,Economics,The teacher was patient and explained concepts well.,,Dr. Banerjee,2025-10-30T20:15:00Z
+46,Physics,Slides were detailed and easy to follow.,,Ms. Nair,2025-10-30T20:30:00Z
+47,History,The pace was a bit fast but overall clear.,,Ms. Nair,2025-10-30T20:45:00Z
+48,Physics,The pace was a bit fast but overall clear.,,Mr. Kumar,2025-10-30T21:00:00Z
+49,Economics,Encourages student participation effectively.,,Mr. Sharma,2025-10-30T21:15:00Z
+50,Statistics,The teacher was patient and explained concepts well.,,Dr. Menon,2025-10-30T21:30:00Z
+51,Economics,Good explanations but more examples would help.,,Dr. Reddy,2025-10-30T21:45:00Z
+52,Economics,Assignments are relevant and thought-provoking.,,Dr. Banerjee,2025-10-30T22:00:00Z
+53,Statistics,Good explanations but more examples would help.,,Ms. Gupta,2025-10-30T22:15:00Z
+54,Computer Science,The class was engaging and informative.,,Ms. Nair,2025-10-30T22:30:00Z
+55,English,The overall teaching style is excellent.,,Ms. Nair,2025-10-30T22:45:00Z
+56,Environmental Science,The teacher was patient and explained concepts well.,,Dr. Banerjee,2025-10-30T23:00:00Z
+57,Statistics,Uses real-life examples to make lessons interesting.,,Ms. Gupta,2025-10-30T23:15:00Z
+58,History,The teacher was patient and explained concepts well.,,Ms. Pillai,2025-10-30T23:30:00Z
+59,Chemistry,Slides were detailed and easy to follow.,,Mr. Singh,2025-10-30T23:45:00Z
+60,History,The teacher was patient and explained concepts well.,,Dr. Iyer,2025-10-31T00:00:00Z
+61,Chemistry,Good explanations but more examples would help.,,Ms. Gupta,2025-10-31T00:15:00Z
+62,Chemistry,The overall teaching style is excellent.,,Dr. Iyer,2025-10-31T00:30:00Z
+63,English,The pace was a bit fast but overall clear.,,Dr. Iyer,2025-10-31T00:45:00Z
+64,History,The teacher was patient and explained concepts well.,,Ms. Nair,2025-10-31T01:00:00Z
+65,Mathematics,Assignments are relevant and thought-provoking.,,Dr. Banerjee,2025-10-31T01:15:00Z
+66,Computer Science,Encourages student participation effectively.,,Mr. Kumar,2025-10-31T01:30:00Z
+67,Biology,Needs to slow down during complex topics.,,Ms. Nair,2025-10-31T01:45:00Z
+68,Chemistry,Needs to slow down during complex topics.,,Dr. Menon,2025-10-31T02:00:00Z
+69,Chemistry,Needs to slow down during complex topics.,,Dr. Menon,2025-10-31T02:15:00Z
+70,Statistics,Needs to slow down during complex topics.,,Dr. Iyer,2025-10-31T02:30:00Z
+71,Statistics,Slides were detailed and easy to follow.,,Ms. Pillai,2025-10-31T02:45:00Z
+72,Mathematics,The class was engaging and informative.,,Dr. Banerjee,2025-10-31T03:00:00Z
+73,English,Good explanations but more examples would help.,,Ms. Pillai,2025-10-31T03:15:00Z
+74,History,The teacher was patient and explained concepts well.,,Dr. Iyer,2025-10-31T03:30:00Z
+75,Chemistry,The class was engaging and informative.,,Mr. Sharma,2025-10-31T03:45:00Z
+76,Economics,Needs to slow down during complex topics.,,Ms. Nair,2025-10-31T04:00:00Z
+77,Statistics,The teacher was patient and explained concepts well.,,Ms. Gupta,2025-10-31T04:15:00Z
+78,Economics,Good explanations but more examples would help.,,Mr. Kumar,2025-10-31T04:30:00Z
+79,English,Slides were detailed and easy to follow.,,Dr. Reddy,2025-10-31T04:45:00Z
+80,Biology,Assignments are relevant and thought-provoking.,,Ms. Gupta,2025-10-31T05:00:00Z
+81,Computer Science,Encourages student participation effectively.,,Mr. Sharma,2025-10-31T05:15:00Z
+82,Biology,Slides were detailed and easy to follow.,,Mr. Kumar,2025-10-31T05:30:00Z
+83,Chemistry,Assignments are relevant and thought-provoking.,,Mr. Sharma,2025-10-31T05:45:00Z
+84,Chemistry,Good explanations but more examples would help.,,Dr. Menon,2025-10-31T06:00:00Z
+85,Environmental Science,Needs to slow down during complex topics.,,Dr. Iyer,2025-10-31T06:15:00Z
+86,Statistics,Good explanations but more examples would help.,,Mr. Singh,2025-10-31T06:30:00Z
+87,Physics,Good explanations but more examples would help.,,Ms. Pillai,2025-10-31T06:45:00Z
+88,Physics,Encourages student participation effectively.,,Dr. Banerjee,2025-10-31T07:00:00Z
+89,History,The class was engaging and informative.,,Dr. Menon,2025-10-31T07:15:00Z
+90,Physics,Uses real-life examples to make lessons interesting.,,Mr. Sharma,2025-10-31T07:30:00Z
+91,Physics,Needs to slow down during complex topics.,,Mr. Singh,2025-10-31T07:45:00Z
+92,Biology,The pace was a bit fast but overall clear.,,Ms. Pillai,2025-10-31T08:00:00Z
+93,Biology,The teacher was patient and explained concepts well.,,Ms. Gupta,2025-10-31T08:15:00Z
+94,English,Good explanations but more examples would help.,,Dr. Iyer,2025-10-31T08:30:00Z
+95,English,Needs to slow down during complex topics.,,Dr. Reddy,2025-10-31T08:45:00Z
+96,Chemistry,Needs to slow down during complex topics.,,Ms. Gupta,2025-10-31T09:00:00Z
+97,Mathematics,Good explanations but more examples would help.,,Dr. Menon,2025-10-31T09:15:00Z
+98,Environmental Science,Needs to slow down during complex topics.,,Ms. Pillai,2025-10-31T09:30:00Z
+99,Mathematics,Needs to slow down during complex topics.,,Ms. Gupta,2025-10-31T09:45:00Z
+100,English,The teacher was patient and explained concepts well.,,Ms. Gupta,2025-10-31T10:00:00Z
