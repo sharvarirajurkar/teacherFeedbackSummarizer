@@ -9,9 +9,11 @@ This project automates the process of collecting, summarizing, and displaying te
 📊 Dashboard Page: Displays summarized feedback and recommendations
 
 Homepage:
+
 ![Uploading Screenshot 2025-10-30 at 12.05.32 PM.png…]()
 
 Submissions page:
+
 ![Uploading Screenshot 2025-10-30 at 12.05.39 PM.png…]()
 
 Summary page:
