@@ -11,10 +11,15 @@ This project automates the process of collecting, summarizing, and displaying te
 
 🚀 Features
 ✅ Collects teacher feedback from a web page
+
 ✅ Stores feedback in AWS DynamoDB
+
 ✅ Downloads unsummarized feedback to your local system
+
 ✅ Summarizes text using your local LLM model (MiniPLM-Qwen-200M)
+
 ✅ Uploads summarized results back to DynamoDB
+
 ✅ Displays teacher-wise summaries on the frontend
 
 
