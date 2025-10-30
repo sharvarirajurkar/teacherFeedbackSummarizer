@@ -1,4 +1,4 @@
-AI-Powered Teacher Feedback Summarizer (Hybrid AWS + Local LLM)
+<img width="2880" height="1628" alt="Screenshot 2025-10-30 at 12 05 32 PM" src="https://github.com/user-attachments/assets/95e7184f-0bd3-4486-82a7-107e72aac441" />AI-Powered Teacher Feedback Summarizer (Hybrid AWS + Local LLM)
 
 
 🔍 Overview
@@ -9,12 +9,12 @@ This project automates the process of collecting, summarizing, and displaying te
 📊 Dashboard Page: Displays summarized feedback and recommendations
 
 Homepage:
+<img width="2880" height="1628" alt="Screenshot 2025-10-30 at 12 05 32 PM" src="https://github.com/user-attachments/assets/ea66b6a3-1f9c-4f9a-802b-5079ed45a4f1" />
 
-![Uploading Screenshot 2025-10-30 at 12.05.32 PM.png…]()
 
 Submissions page:
+<img width="2878" height="1524" alt="Screenshot 2025-10-30 at 12 05 39 PM" src="https://github.com/user-attachments/assets/bcbd02ba-4ec3-48f9-a97f-286ce2f3a458" />
 
-![Uploading Screenshot 2025-10-30 at 12.05.39 PM.png…]()
 
 Summary page:
 
