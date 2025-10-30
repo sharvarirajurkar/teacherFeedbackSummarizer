@@ -25,16 +25,27 @@ This project automates the process of collecting, summarizing, and displaying te
 
 
 🏗️ System Architecture
+
 Frontend (HTML Form)
+
        ↓
+       
 API Gateway → Lambda (store feedback)
+
        ↓
+       
 DynamoDB (FeedbackTable)
+
        ↓
+       
 Local Python Summarizer (uses local LLM)
+
        ↓
+       
 DynamoDB (update with summaries)
+
        ↓
+       
 Frontend Dashboard (display summaries)
 
 
@@ -42,6 +53,7 @@ Frontend Dashboard (display summaries)
 ⚙️ Setup Instructions
 
 🪜 Step 1: AWS Setup
+
 1️⃣ Create DynamoDB Table
 Name: FeedbackTable
 Primary Key: teacher (String)
@@ -49,6 +61,7 @@ Attributes:
 teacher
 feedback
 summary (optional, added later)
+
 2️⃣ Create Lambda Function (Store Feedback)
 Name: FeedbackCollector
 Runtime: Python 3.10
@@ -57,7 +70,9 @@ import json
 import boto3
 
 dynamodb = boto3.resource('dynamodb')
+
 table = dynamodb.Table('FeedbackTable')
+
 
 def lambda_handler(event, context):
     body = json.loads(event['body'])
@@ -71,8 +86,11 @@ def lambda_handler(event, context):
         'body': json.dumps({'message': 'Feedback saved successfully!'})
     }
 Deploy it
+
 Add permission for DynamoDB full access
+
 3️⃣ Create API Gateway
+
 Create a REST API
 Resource: /feedback
 Method: POST
